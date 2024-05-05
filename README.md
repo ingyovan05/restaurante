@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+## Información del Candidato
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Prueba Técnica Solicitud 3683493 Arquitecto Software
+Ministerio de Ambiente y Desarrollo Sostenible
+
+Presentado por:
+
+Yovan Alirio Solano Florez
+cc. 13722144
+Contacto: 3177785459
+
+## Introducción
+
+La prueba técnica consiste en la propuesta arquitectónica de un sistema de reservas en línea para un grupo de restaurantes que brindaran la posibilidad a través de un portal web y una app móvil hacer uso de sus instalaciones a través de reservas de mesas por fechas y horas. Además de proporcionar a los restaurantes agrupados la gestión y consulta de reservas y disponibilidad en tiempo real.
+
 
 ## Available Scripts
 
