@@ -13,6 +13,7 @@ Contacto: 3177785459
 
 La prueba técnica consiste en la propuesta arquitectónica de un sistema de reservas en línea para un grupo de restaurantes que brindaran la posibilidad a través de un portal web y una app móvil hacer uso de sus instalaciones a través de reservas de mesas por fechas y horas. Además de proporcionar a los restaurantes agrupados la gestión y consulta de reservas y disponibilidad en tiempo real.
 
+## Prueba de Rama En Repositorio Remoto
 
 ## Available Scripts
 
